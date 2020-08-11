@@ -10,3 +10,5 @@ Below are the code links and concepts/techniques covered in each assignment.
 - [HW4](https://github.com/HonglingLei/Java-Coding-Assignments/tree/master/HW4_Class_Exception_Scope): More loop practices
 - [HW5](https://github.com/HonglingLei/Java-Coding-Assignments/tree/master/HW5_Advanced_OOP): Class, interface, inheritence, encapsulation, scope of variables/objects
 - [HW6](https://github.com/HonglingLei/Java-Coding-Assignments/tree/master/HW6_Input_Output_Collection): Input/output, exception handling, collections and generics
+- [Midterm](https://github.com/HonglingLei/Java-Coding-Assignments/tree/master/Midterm_Calculator): A java-based console program (character based) which does simple calculations (addition, subtraction, multiplication and division) of two numbers. [See More](https://github.com/HonglingLei/Calculator)
+- [HW7]()
